@@ -1,5 +1,5 @@
-Django research_project
-==================
+Django Research Project
+========================
 
 .. toctree::
    :maxdepth: 0

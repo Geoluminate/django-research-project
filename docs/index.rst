@@ -1,5 +1,5 @@
-Welcome to Django research_project's documentation!
-==============================================
+Welcome to Django Research Project's documentation!
+====================================================
 
 Contents:
 

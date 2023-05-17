@@ -2,7 +2,7 @@
 Usage
 =====
 
-To use Django research_project in a project, add it to your `INSTALLED_APPS`:
+To use Django Research Project in a project, add it to your `INSTALLED_APPS`:
 
 .. code-block:: python
 
@@ -12,7 +12,7 @@ To use Django research_project in a project, add it to your `INSTALLED_APPS`:
         ...
     )
 
-Add Django research_project's URL patterns:
+Add Django Research Project's URL patterns:
 
 .. code-block:: python
 

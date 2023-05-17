@@ -1,4 +1,4 @@
-# Django research_project 
+# Django Research Project 
 
 [![Github Build](https://github.com/SSJenny90/django-research-projects/actions/workflows/build.yml/badge.svg)](https://github.com/SSJenny90/django-research-projects/actions/workflows/build.yml)
 [![Github Docs](https://github.com/SSJenny90/django-research-projects/actions/workflows/docs.yml/badge.svg)](https://github.com/SSJenny90/django-research-projects/actions/workflows/docs.yml)
@@ -23,7 +23,7 @@ The full documentation is at https://ssjenny90.github.io/django-research-project
 Quickstart
 ----------
 
-Install Django research_project::
+Install Django Research Project::
 
     pip install django-research-projects
 
@@ -36,7 +36,7 @@ Add it to your `INSTALLED_APPS`:
         ...
     )
 
-Add Django research_project's URL patterns:
+Add Django Research Project's URL patterns:
 
     urlpatterns = [
         ...
