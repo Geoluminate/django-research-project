@@ -6,7 +6,6 @@ services:
       dockerfile: ./docker/Dockerfile
       context: .
     image: django_research_project
-    container_name: django_research_project
     working_dir: /app
     volumes:
       - ./:/app:z
@@ -18,7 +17,6 @@ services:
   docs:
     <<: *django
     image: django_research_project_docs
-    container_name: django_research_project_docs
     working_dir: /app/docs
     volumes:
       - ./:/app:z

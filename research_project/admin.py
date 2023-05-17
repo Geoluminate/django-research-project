@@ -1,7 +1,7 @@
 # from django.contrib import admin
 # from django.db.models import Count
 
-# from .models import DataType, Instrument, InstrumentType, Manufacturer, ResearchProject
+# from .models import DataType, Instrument, InstrumentType, Manufacturer, Research Project
 
 
 # class InstrumentInline(admin.StackedInline):
@@ -14,7 +14,7 @@
 # #     extra = 1
 
 
-# @admin.register(ResearchProject)
+# @admin.register(Research Project)
 # class ResearchProjectAdmin(admin.ModelAdmin):
 #     search_fields = ["name"]
 #     inlines = [InstrumentInline]
