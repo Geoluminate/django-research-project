@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "django-research-projectss"
+name = "django-research-projects"
 version = "0.0.1"
 description = "Easily store metadata for research project and datasets in Django."
 authors = ["Sam Jennings <samuel.scott.jennings@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "research_project"}]
-homepage = "https://github.com/SSJenny90/django-research-projectsss"
+homepage = "https://github.com/SSJenny90/django-research-projects"
 keywords = ["django", "research project", "science", "datasets", "research management"]
 classifiers = [
     "Development Status :: 3 - Alpha",
